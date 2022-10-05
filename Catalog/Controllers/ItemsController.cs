@@ -20,7 +20,7 @@ namespace Catalog.Controllers
         public IEnumerable<ItemDto> GetItems()
             => repository.GetItems().Select(item => item.AsDto());
 
-        [HttpGet("id")]
+        [HttpGet("{id}")]
         public ActionResult<ItemDto> GetItem(Guid id)
         {
             var item = repository.GetItem(id);
