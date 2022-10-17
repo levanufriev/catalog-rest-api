@@ -41,3 +41,6 @@ D:\projects\Catalog\Catalog\obj\Debug\net6.0\refint\Catalog.dll
 D:\projects\Catalog\Catalog\obj\Debug\net6.0\Catalog.pdb
 D:\projects\Catalog\Catalog\obj\Debug\net6.0\Catalog.genruntimeconfig.cache
 D:\projects\Catalog\Catalog\obj\Debug\net6.0\ref\Catalog.dll
+D:\projects\Catalog\Catalog\bin\Debug\net6.0\HealthChecks.MongoDb.dll
+D:\projects\Catalog\Catalog\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\projects\Catalog\Catalog\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
