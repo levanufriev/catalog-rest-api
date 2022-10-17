@@ -9,7 +9,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/Catalog/bin/Debug/net6.0/Catalog.dll",
+            "program": "${workspaceFolder}/Catalog/bin/Debug/net6.0/Catalog.Api.dll",
             "args": [],
             "cwd": "${workspaceFolder}/Catalog",
             "stopAtEntry": false,
@@ -31,7 +31,7 @@
             "request": "launch",
             "preLaunchTask": "docker-run: debug",
             "netCore": {
-                "appProject": "${workspaceFolder}/Catalog/Catalog.csproj"
+                "appProject": "${workspaceFolder}/Catalog/Catalog.Api.csproj"
             }
         }
     ]
